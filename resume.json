@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "Anikket Verma",
+		"label": "Student",
+		"picture": "https://postimg.cc/qgYgzfqB",
+		"email": "2020kuec2030@iiitkota.ac.in",
+		"phone": "+919022881159",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in electronic & Communication engineering. I love to code.",
+		"location": {
+			"address": "305/B Railway Colony Madgaon Goa",
+			"postalCode": "403707",
+			"city": "Madgaon",
+			"countryCode": "India",
+			"region": "Goa"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "WingsMotor",
+				"url": "https://twitter.com/WingsMotor"
+			},
+			{
+				"network": "Github",
+				"username": "Ani707",
+				"url": "https://github.com/Ani707"
+			},
+			
+			{
+				"network": "Instagram",
+				"username": "aniketv7695",
+				"url": "https://www.instagram.com/aniketv7695/"
+			}
+		]
+	},
+	
+	
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08 //Date",
+		"courses": [
+			"Electronic & Communication Engineering"
+		]
+	}],
+    "skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript",  "C", "Add more"]
+	}],
+	
+	
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Badminton"]
+	}],
+	"references": []
+}
